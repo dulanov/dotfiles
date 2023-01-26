@@ -9,7 +9,7 @@
         process = git-lfs filter-process
         required = true
 [init]
-	defaultBranch = main
+        defaultBranch = main
 [pull]
         rebase = true
 [commit]
